@@ -1,4 +1,4 @@
-package Adaptors;
+package Adapters;
 
 import Abstract.CustomerCheckService;
 import Entities.Customer;
